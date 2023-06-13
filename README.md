@@ -1,4 +1,7 @@
 Changes after 1th of June are only rearranging folders/files and adding README, no code changes.
+
+As Github will not render my jupyter files, one could paste the github-link to each jypter notebook to "https://nbviewer.org/", and receive the results without cloning the repo.
+
 # FinansMaster
 Datasets.py fetches the data from S&P500 and Robert shiller [1]. To run the analyses, clone the repository and run the notebook files (.ipynb). The code for all plots for the theory part of the thesis is located in plots or old.
 
