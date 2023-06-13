@@ -1,8 +1,6 @@
 Changes after 1. June is purely rearranging folders/files and adding README. 
 # FinansMaster
-Datasets.py fetches the data from S&P500 and Robert shiller [1]. 
-
-To run the analyses, clone the repository and run the notebook files:
+Datasets.py fetches the data from S&P500 and Robert shiller [1]. To run the analyses, clone the repository and run the notebook files (.ipynb). The code for all plots for the theory part of the thesis is located in plots or old.
 
 ## Descriptive.ipynb
 Returns descriptive statistics of all the portfolios
